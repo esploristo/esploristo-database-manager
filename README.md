@@ -11,6 +11,7 @@ sudo aptitude install postgresql
 sudo su - postgres
 psql
 ```
+```
 create database ${database};
 create user ${user} password '${password}';
 alter user ${user} superuser;
