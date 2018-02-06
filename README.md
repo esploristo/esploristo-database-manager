@@ -56,6 +56,4 @@ select * from movie_genre limit 10;
 select count(*) from genre;
 select count(*) from movie;
 select count(*) from movie_genre;
-
 ```
-
