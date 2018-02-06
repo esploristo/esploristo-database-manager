@@ -1,0 +1,19 @@
+{
+  "name": "esploristo-database-manager",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Loïc Bourgois",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^4.0.2"
+  },
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
+}
